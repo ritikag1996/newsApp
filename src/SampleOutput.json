@@ -1,0 +1,110 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "CBC News",
+            "title": "Danielle Smith wins Alberta, but not without some battle scars",
+            "description": "The United Conservative Party has won its second straight majority in the closest election race in Alberta's history. Premier Danielle Smith sits down with Power & Politics' David Cochrane in the wake of her election victory to discuss her diminished caucus a…",
+            "url": "http://www.cbc.ca/player/play/2218323523702",
+            "urlToImage": "https://thumbnails.cbc.ca/maven_legacy/thumbnails/999/175/PNPSMITHM30.jpg",
+            "publishedAt": "2023-05-31T13:22:21.6861157Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "CBC News",
+            "title": "ANALYSIS | Populist or not, Danielle Smith is another challenge to Liberal climate policy | CBC News",
+            "description": "As the newly re-elected premier of Alberta, Danielle Smith sits at the nexus of the two most powerful forces shaping contemporary politics: populism and climate change.",
+            "url": "http://www.cbc.ca/news/politics/danielle-smith-alberta-populism-climate-change-wherry-1.6859691",
+            "urlToImage": "https://i.cbc.ca/1.6858882.1685427186!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/danielle-smith.JPG",
+            "publishedAt": "2023-05-31T13:22:19.6846525Z",
+            "content": "As the newly re-elected premier of Alberta, Danielle Smith sits at the nexus of the two most powerful forces shaping contemporary politics: populism and climate change.\r\nWhile the former may have car… [+6100 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "VANESSA GERA Associated Press",
+            "title": "Auschwitz museum criticizes use of death camp in politics after ruling party uses it in political ad",
+            "description": "The Auschwitz-Birkenau memorial museum has denounced a political spot by Poland’s ruling party that uses the theme of the Nazi German extermination camp to discourage participation in an upcoming anti-government march",
+            "url": "https://abcnews.go.com/International/wireStory/auschwitz-museum-denounces-polish-ruling-partys-death-camp-99720586",
+            "urlToImage": "https://s.abcnews.com/images/International/wirestory_e1d2e7c082dd61dedb2d7cb1c22ee4ac_16x9_992.jpg",
+            "publishedAt": "2023-05-31T12:05:58Z",
+            "content": "WARSAW, Poland -- The Auschwitz-Birkenau memorial museum has denounced a political spot by Poland's ruling party that uses the theme of the Nazi German extermination camp to discourage participation … [+2678 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Courtney Kube",
+            "title": "Congress threatens to block funding for Space Force headquarters as abortion politics affect location decision",
+            "description": "Republican and Democratic members of Congress from Alabama submitted a draft House bill late last week that would block funding for the continued growth of U.S.",
+            "url": "https://www.nbcnews.com/politics/national-security/congress-threatens-block-funding-space-force-headquarters-abortion-pol-rcna86500",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-05/230514-colorado-springs-space-force-jm-1429-0f5041.jpg",
+            "publishedAt": "2023-05-31T10:00:40Z",
+            "content": "Republican and Democratic members of Congress from Alabama submitted a draft House bill late last week that would block funding for the continued growth of U.S. Space Command's temporary headquarters… [+4686 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Zeeshan Aleem",
+            "title": "Ron DeSantis’ openness to pardoning Jan. 6 defendants is a dark sign",
+            "description": "Florida Gov. Ron DeSantis has indicated something alarming: that he could pardon Jan. 6 defendants, and Donald Trump. It's a sign of authoritarian politics.",
+            "url": "https://www.msnbc.com/opinion/msnbc-opinion/ron-desantis-january-6-pardons-trump-rcna86315",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-04/230421-ron-desantis-mjf-1043-9f0895.jpg",
+            "publishedAt": "2023-05-26T10:00:41Z",
+            "content": "During his opening 2024 pitch to voters on Wednesday, Florida Gov. Ron DeSantis promised to crack down aggressively on crime. But the next day he made it clear that upholding the law might not be so … [+3244 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Mark Davis",
+            "title": "Newsweek",
+            "description": "Newsweek provides in-depth analysis, news and opinion about international issues, technology, business, culture and politics.",
+            "url": "https://www.newsweek.com/",
+            "urlToImage": "https://d.newsweek.com/en/full/2202468/special-presidential-envoy-climate-john-kerry.jpg",
+            "publishedAt": "2023-03-01T12:07:28.8517009Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-american-conservative",
+                "name": "The American Conservative"
+            },
+            "author": null,
+            "title": "Politics Archives - The American Conservative",
+            "description": null,
+            "url": "https://www.theamericanconservative.com/category/politics/",
+            "urlToImage": null,
+            "publishedAt": "2022-07-07T21:37:27.3936289Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-jerusalem-post",
+                "name": "The Jerusalem Post"
+            },
+            "author": null,
+            "title": "Congresswoman Nita Lowey: I am proud to stand with Israel",
+            "description": "Gantz: Security of Israel is above politics; PA: This is a crime.",
+            "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595",
+            "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812",
+            "publishedAt": "2019-11-13T04:41:00Z",
+            "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+        }
+    ]
+}
